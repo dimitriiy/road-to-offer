@@ -1,0 +1,25 @@
+{
+  "name": "road-to-offer",
+  "version": "1.0.0",
+  "description": "Репозиторий для структурированной подготовки к собеседованию на позицию Senior Frontend Engineer.   Период: **15 июня — 15 августа 2026**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitriiy/road-to-offer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitriiy/road-to-offer/issues"
+  },
+  "homepage": "https://github.com/dimitriiy/road-to-offer#readme",
+  "devDependencies": {
+    "tsx": "^4.22.4",
+    "vitest": "^4.1.9"
+  },
+  "dependencies": {}
+}
