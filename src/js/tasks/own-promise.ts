@@ -119,21 +119,3 @@ export class MyPromise<T> {
     });
   }
 }
-
-function assertsIsString(value: unknown): asserts value is string {
-  if (typeof value !== "string") {
-    throw new Error();
-  }
-}
-
-let a: unknown;
-
-assertsIsString(a);
-
-a.charAt(1);
-
-type A = { v: 2 };
-
-interface V {}
-
-interface C extends A {}
