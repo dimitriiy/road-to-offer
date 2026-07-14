@@ -12,25 +12,21 @@ function twoSum(nums: number[], target: number): number[] {
   return [];
 }
 
-function groupAnagrams(strs: string[]): string[][] {
-  if (!strs.length) return [];
+export function twoSum2(numbers: number[], target: number): number[] {
+  let i = 0;
+  let j = numbers.length - 1;
 
-  const result = {};
-
-  for (let i = 0; i < strs.length; i++) {
-    const word = strs[i];
-    const sorted = word
-      .split("")
-      .map((c) => c.charCodeAt(0))
-      .reduce((acc, c) => (acc += c), 0)
-      .toString();
-
-    if (!result[sorted]) {
-      result[sorted] = [];
+  while (i < j) {
+    const sum = numbers[i] + numbers[j];
+    if (sum == target) {
+      return [i + 1, j + 1];
     }
-
-    result[sorted].push(word);
+    if (sum > target) {
+      j--;
+    } else {
+      i++;
+    }
   }
 
-  return Object.values(result);
+  return [];
 }

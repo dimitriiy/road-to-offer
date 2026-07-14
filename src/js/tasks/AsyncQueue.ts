@@ -38,6 +38,7 @@ export class AsyncQueue {
 
     this.execute(asyncTask);
   }
+
   async enqueue(cb: AsyncTask) {
     return new Promise((res, rej) => {
       this.queue.push({ res, rej, cb });
