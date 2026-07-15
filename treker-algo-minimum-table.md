@@ -1,0 +1,115 @@
+# Таблица прогресса по алго‑минимуму
+
+## Легенда
+- **Решил сам:** ✅ / 🟨 / ⬜
+- **Объяснил вслух:** ✅ / 🟨 / ⬜
+- **Big-O назвал:** ✅ / 🟨 / ⬜
+- **Edge cases проговорил:** ✅ / 🟨 / ⬜
+- **Нужен повтор:** ✅ / ⬜
+
+## 1) Массивы, строки и хэш‑таблицы
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 1 | Two Sum | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 242 | Valid Anagram | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 49 | Group Anagrams | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 347 | Top K Frequent Elements | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 128 | Longest Consecutive Sequence | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 2) Two Pointers
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 125 | Valid Palindrome | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 167 | Two Sum II - Input Array Is Sorted | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 15 | 3Sum | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 11 | Container With Most Water | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 42 | Trapping Rain Water | Hard | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 3) Sliding Window
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 643 | Maximum Average Subarray I | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 3 | Longest Substring Without Repeating Characters | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 209 | Minimum Size Subarray Sum | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 567 | Permutation in String | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 76 | Minimum Window Substring | Hard | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 4) Бинарный поиск
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 704 | Binary Search | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 35 | Search Insert Position | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 34 | Find First and Last Position of Element in Sorted Array | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 33 | Search in Rotated Sorted Array | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 875 | Koko Eating Bananas | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 5) Деревья и графы (DFS / BFS)
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 104 | Maximum Depth of Binary Tree | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 226 | Invert Binary Tree | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 102 | Binary Tree Level Order Traversal | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 236 | Lowest Common Ancestor of a Binary Tree | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 200 | Number of Islands | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 207 | Course Schedule | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 6) Жадные алгоритмы и интервалы
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 53 | Maximum Subarray (Kadane's) | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 55 | Jump Game | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 56 | Merge Intervals | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 435 | Non-overlapping Intervals | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 763 | Partition Labels | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## 7) Динамическое программирование (1D DP)
+
+| # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
+|---|---|---|---|---|---|---|---|---|
+| LC 70 | Climbing Stairs | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 198 | House Robber | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 322 | Coin Change | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 300 | Longest Increasing Subsequence | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 416 | Partition Equal Subset Sum | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+
+## Еженедельный обзор
+
+### Неделя:
+
+### Что прошло хорошо
+- 
+- 
+
+### Что надо добить
+- 
+- 
+
+### Какие задачи повторить
+- 
+- 
+
+### Какие паттерны уже автоматизировались
+- 
+- 
+
+### Что стало понятно только после разбора
+- 
+- 
+
+### Самооценка
+- **Скорость решения:** 1-5
+- **Качество объяснения:** 1-5
+- **Уверенность на интервью:** 1-5
+
+## Правило использования
+
+- Каждая задача должна получить итог: решена ли она **самостоятельно**.
+- Если задача не решилась за 20-25 минут, ставь 🟨 и записывай подсказку/триггер.
+- Если задачу решил, но не смог объяснить — это тоже незавершённый результат.
+- Если задача решена дважды без подсказок и объяснена вслух, можно считать паттерн закрытым.
