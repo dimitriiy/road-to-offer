@@ -11,20 +11,20 @@
 
 | # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
 |---|---|---|---|---|---|---|---|---|
-| LC 1 | Two Sum | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 242 | Valid Anagram | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 49 | Group Anagrams | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 347 | Top K Frequent Elements | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 128 | Longest Consecutive Sequence | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 1 | Two Sum | Easy | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 242 | Valid Anagram | Easy | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 49 | Group Anagrams | Medium | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 347 | Top K Frequent Elements | Medium | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 128 | Longest Consecutive Sequence | Medium | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
 
 ## 2) Two Pointers
 
 | # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
 |---|---|---|---|---|---|---|---|---|
-| LC 125 | Valid Palindrome | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 167 | Two Sum II - Input Array Is Sorted | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 125 | Valid Palindrome | Easy | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 167 | Two Sum II - Input Array Is Sorted | Medium | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
 | LC 15 | 3Sum | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 11 | Container With Most Water | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 11 | Container With Most Water | Medium | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | |
 | LC 42 | Trapping Rain Water | Hard | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
 
 ## 3) Sliding Window
@@ -51,11 +51,11 @@
 
 | # | Задача | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
 |---|---|---|---|---|---|---|---|---|
-| LC 104 | Maximum Depth of Binary Tree | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 104 | Maximum Depth of Binary Tree | Easy | ✅ | ⬜ | ⬜ | ⬜ | ✅ | |
 | LC 226 | Invert Binary Tree | Easy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
 | LC 102 | Binary Tree Level Order Traversal | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
 | LC 236 | Lowest Common Ancestor of a Binary Tree | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
-| LC 200 | Number of Islands | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
+| LC 200 | Number of Islands | Medium | ✅ | ⬜ | ⬜ | ⬜ | ✅ | |
 | LC 207 | Course Schedule | Medium | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | |
 
 ## 6) Жадные алгоритмы и интервалы

@@ -35,7 +35,6 @@ function topKFrequent(nums: number[], k: number): number[] {
     count[num]++;
   }
 
-  console.log(count);
   const values = Object.entries(count).sort((a, b) => b[1] - a[1]);
 
   return values.slice(0, k).map((p) => +p[0]);
