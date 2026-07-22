@@ -16,7 +16,7 @@ describe("threeSum", () => {
       expect.arrayContaining([
         expect.arrayContaining([-1, -1, 2]),
         expect.arrayContaining([-1, 0, 1]),
-      ])
+      ]),
     );
     expect(result).toHaveLength(2);
   });
@@ -31,7 +31,9 @@ describe("threeSum", () => {
 
   it("does not return duplicate triplets", () => {
     const result = threeSum([-1, -1, -1, 0, 0, 0, 1, 1, 1]);
-    const normalized = result.map((t) => [...t].sort((a, b) => a - b).join(","));
+    const normalized = result.map((t) =>
+      [...t].sort((a, b) => a - b).join(","),
+    );
     expect(new Set(normalized).size).toBe(result.length);
   });
 
@@ -49,7 +51,7 @@ describe("threeSum", () => {
         expect.arrayContaining([-4, 2, 2]),
         expect.arrayContaining([-2, 0, 2]),
         expect.arrayContaining([-2, -2, 4]),
-      ])
+      ]),
     );
   });
 });

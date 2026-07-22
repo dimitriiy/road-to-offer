@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { twoSum2 } from "./two-sum";
+import { twoSum2 } from "./two-sum2";
 
 describe("twoSum2", () => {
   it("finds pair [2,7]", () => {
