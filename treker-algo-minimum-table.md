@@ -33,7 +33,7 @@
 | #      | Задача                                         | Сложность | Решил сам | Объяснил вслух | Big-O | Edge cases | Нужен повтор | Комментарий |
 | ------ | ---------------------------------------------- | --------- | --------- | -------------- | ----- | ---------- | ------------ | ----------- |
 | LC 643 | Maximum Average Subarray I                     | Easy      | ⬜        | ⬜             | ⬜    | ⬜         | ⬜           |             |
-| LC 3   | Longest Substring Without Repeating Characters | Medium    | ⬜        | ⬜             | ⬜    | ⬜         | ⬜           |             |
+| LC 3   | Longest Substring Without Repeating Characters | Medium    | ⬜        | ⬜             | ⬜    | ⬜         | 🟨           |             |
 | LC 209 | Minimum Size Subarray Sum                      | Medium    | ⬜        | ⬜             | ⬜    | ⬜         | ⬜           |             |
 | LC 567 | Permutation in String                          | Medium    | ⬜        | ⬜             | ⬜    | ⬜         | ⬜           |             |
 | LC 76  | Minimum Window Substring                       | Hard      | ⬜        | ⬜             | ⬜    | ⬜         | ⬜           |             |
